@@ -1,4 +1,4 @@
 # priyanshu-demo
 This is my first GIT Repository.
 <br>
-Author- Priyanshu Nath
+Author- Priyanshu (IIT Roorkee)
